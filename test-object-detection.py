@@ -1,3 +1,16 @@
+""" stds-sample-code-for-object-detection.py
+    
+    Author: Jesus Leonardo Tamez Gloria
+            Jose Miguel Gonzalez Zaragoza
+    Organisation: Universidad de Monterrey
+    Contact: jesusl.tamez@udem.edu
+             jose.gonzalezz@udem.edu
+
+    USAGE: 
+    $ python .\test-object-detection.py --video_file football-field-cropped-video.mp4 --frame_resize_percentage 30
+"""
+
+
 import cv2 
 import argparse
 import numpy as np
